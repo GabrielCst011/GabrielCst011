@@ -18,7 +18,11 @@ Estou estudando Análise e Desenvolvimento de Sistemas e atualmente no primeiro 
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<!-- ### Projetos -->
+### Projetos
 
 <!-- - [Projeto 1](link-do-repositorio) - Descrição breve do projeto. -->
 <!-- - [Projeto 2](link-do-repositorio) - Descrição breve do projeto. -->
+
+### Contato
+
+- E-mail: [devgbl34@gmail.com](mailto:devgbl34@gmail.com)
