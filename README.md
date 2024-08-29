@@ -1,12 +1,12 @@
 
 
-###Olá, sou Gabriel Costa! 👋🏻
+### Olá, sou Gabriel Costa! 👋🏻
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-costa-04a756325)
 
 ![DevGBL011 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGBL011&show_icons=true&theme=cobalt)
 
-###Tecnologias que eu ultilizo
+### Tecnologias que eu ultilizo
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
