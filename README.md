@@ -29,4 +29,4 @@ Estou estudando Análise e Desenvolvimento de Sistemas e atualmente no primeiro 
 
 ### Contato
 
-- E-mail: [devgbl34@gmail.com](mailto:devgbl34@gmail.com)
+- E-mail: [bbbgabriel35@outlook.com](mailto:bbbgabriel35@outlook.com)
