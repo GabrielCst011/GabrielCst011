@@ -8,8 +8,6 @@
 
 Estou estudando Análise e Desenvolvimento de Sistemas e atualmente estou no segundo semestre. Tenho interesse em desenvolvimento web e programação, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCst011&layout=donut-vertical)](https://github.com/GabrielCst011/github-readme-stats) -->
-
 ### Tecnologias que eu utilizo
 
 <div style="display: inline_block"><br/>
@@ -21,12 +19,3 @@ Estou estudando Análise e Desenvolvimento de Sistemas e atualmente estou no seg
 </div>
 
 ### Projetos
-
-<!-- - [Projeto 1](link-do-repositorio) - Descrição breve do projeto. -->
-<!-- - [Projeto 2](link-do-repositorio) - Descrição breve do projeto. -->
-
-<!--
-### Contato
-
-- E-mail: [bbbgabriel35@outlook.com](mailto:bbbgabriel35@outlook.com)
--->
